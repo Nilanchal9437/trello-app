@@ -165,7 +165,7 @@ export default function CardUpdate(props) {
                                 }}
                                 disabled={props.state.CreateTemplates.cardTitlte === '' ? true : false}
                             >
-                                CREATE
+                                UPDATE
                         </Button>
 
                         </DialogContentText>
