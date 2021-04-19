@@ -1,0 +1,101 @@
+#back-img {
+    background-image: url('../Images/dilog.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#card-img1 {
+    background-image: url('../Images/Office.jpg');
+}
+
+#card-img2 {
+    background-image: url('../Images/TimeWork.jpg');
+}
+
+
+#Card-full-design{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#Card-full-design:hover{
+    cursor: pointer;
+}
+#card-header-design{
+    padding: 1px 1px 1px 10px;
+    margin: 0px;
+}
+#card-header-design:hover{
+    cursor: pointer;
+}
+#card-body-design{
+    padding: 6px 6px 6px 6px;
+}
+#card-body-design:hover{
+    cursor: pointer;
+}
+
+#design-card:hover{
+    cursor: pointer;
+}
+#design-card {
+    font-size: 13px;
+    padding: 2px 2px 8px 8px;
+}
+
+#card-list-item{
+    padding: 15px 8px 0px 8px;
+}
+
+#text-field-data{
+    background-color: aliceblue;
+}
+
+#btn-style-one{
+    background-color : #fff;
+    margin: 3px 3px 3px 0px;
+}
+
+#btn-style-two{
+    background: radial-gradient(at center bottom, rgb(84 218 255) 0%, rgb(45 125 118) 100%);
+    margin: 3px;
+}
+
+#btn-style-three{
+    background: radial-gradient(ellipse at bottom, #cdcdcd 0%,#15262c 100%);
+    margin: 3px;
+}
+
+#btn-style-four{
+    overflow: hidden;
+    background-image: url("../Images/BG_photo.jpeg");
+    background-size: cover;
+    margin: 3px 0px 3px 3px;
+  }
+
+#btn-style-five{
+    overflow: hidden;
+    background-image: url("../Images/ship.jpg");
+    background-size: cover;
+    margin: 3px 3px 3px 0px;
+  }
+
+  #btn-style-six{
+    overflow: hidden;
+    background-image: url("../Images/Desert-Garden.jpg");
+    background-size: cover;
+    margin: 3px;
+  }
+  #btn-style-seven{
+    overflow: hidden;
+    background-image: url("../Images/lamp.jpg");
+    background-size: cover;
+    margin: 3px;
+  }
+  #btn-style-eight{
+    overflow: hidden;
+    background-image: url("../Images/ocen.jpg");
+    background-size: cover;
+    margin: 3px;
+  }
